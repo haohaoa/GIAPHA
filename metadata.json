@@ -1,0 +1,6 @@
+{
+  "name": "Gia Phả Trực Tuyến",
+  "description": "Hệ thống quản lý cây gia phả dòng họ trực tuyến đa thế hệ với tính năng tra cứu quan hệ họ hàng, lịch ngày giỗ và sao lưu Excel/JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
